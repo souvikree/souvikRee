@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCczJlqHeq4o4zgPjq9tMaYcyRlmE2528hw&usqp=CAU](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))](https://souvikree.io)
+![0](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">A developer from India.I have a bit interest on AI&ML .</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
