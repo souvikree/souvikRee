@@ -24,6 +24,9 @@
   <a href="https://www.instagram.com/dreamydaze_ree?igsh=zgozyndmyzd3y20=" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://x.com/Reek003" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -94,3 +97,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree" alt="GitHub Streak" /></p>
+
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+  <a href="https://myportfolio-two-amber.vercel.app/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Portfolio" height="30" width="40" />
+    Visit my Portfolio
+  </a>
+</p>
