@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" class="rounded-lg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" style="border-radius: 15px 50px;" >
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -18,9 +18,9 @@
   <a href="https://www.linkedin.com/in/souvik-ghosh-97a208227" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" class="rounded-lg"/>
   </a>
-  <a href="https://www.kaggle.com/souvikree" target="blank">
+<!--   <a href="https://www.kaggle.com/souvikree" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" class="rounded-lg"/>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/dreamydaze_ree?igsh=zgozyndmyzd3y20=" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" class="rounded-lg"/>
   </a>
