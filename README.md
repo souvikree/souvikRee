@@ -1,4 +1,4 @@
-![Profile Banner](https://img.shields.io/badge/--black?logo=data:image/jpeg;base64,[base64-encoded-image])
+![Profile Banner](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3 </h3>
@@ -99,7 +99,7 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&locale=en&layout=compact" alt="Top Languages" class="rounded-lg"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&locale=en&layout=compact" alt="Top Languages" class="rounded-lg"/>
 </p>
 
 <p>
