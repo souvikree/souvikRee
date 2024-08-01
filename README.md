@@ -127,10 +127,9 @@
 
 ## 📊 Github Stats
 
-<br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="192px" class="rounded-lg"/>
+</p>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&locale=en" alt="GitHub Stats" height="192px" class="rounded-lg"/>
