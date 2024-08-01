@@ -18,20 +18,13 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/souvik-ghosh-97a208227" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" class="rounded-lg"/>
-  </a>
-<!--   <a href="https://www.kaggle.com/souvikree" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" class="rounded-lg"/>
-  </a> -->
-  <a href="https://www.instagram.com/dreamydaze_ree?igsh=zgozyndmyzd3y20=" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" class="rounded-lg"/>
-  </a>
-  <a href="https://x.com/Reek003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" class="rounded-lg"/>
-  </a>
-</p>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/script.reek/) 
+&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:souvikg3225@gmail.com)
+&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/souvik-ghosh-97a208227)
+&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Reek003)
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
