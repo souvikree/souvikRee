@@ -3,24 +3,24 @@
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" style="border-radius: 15px 50px;" >
+## :sassy_man: About Me
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" style="border-radius: 15px 50px;">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently learning **BLOCKCHAIN**
-- 📫 How to reach me: **souvikg3225@gmail.com**
-- ⚡ Fun fact: **Not Have any**
+- :school: I am studying `Computer Science and Business System` at Heritage Institute of Technology Kolkata.
+- 🌱 I’m currently learning **`BLOCKCHAIN`**.
+- 📫 How to reach me: **souvikg3225@gmail.com**.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- ⚡ Fun fact: **Not Have any**.
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/souvik-ghosh-97a208227" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" class="rounded-lg"/>
   </a>
-<!--   <a href="https://www.kaggle.com/souvikree" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" class="rounded-lg"/>
-  </a> -->
   <a href="https://www.instagram.com/dreamydaze_ree?igsh=zgozyndmyzd3y20=" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" class="rounded-lg"/>
   </a>
@@ -37,10 +37,13 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ My Skills
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Tailwind" width="100" height="50" class="rounded-lg" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
@@ -84,43 +87,31 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="50" height="50" class="rounded-lg" style="margin-right: 30px;"/>
-  </a>
 </p>
 
+## 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&locale=en&layout=compact" alt="Top Languages" class="rounded-lg"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&locale=en" alt="Souvik's GitHub Stats" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&" alt="GitHub Streak" />
 </p>
+  <br/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&locale=en" alt="GitHub Stats" class="rounded-lg"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&" alt="GitHub Streak" class="rounded-lg"/>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souvikree&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
