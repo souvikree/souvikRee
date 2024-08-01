@@ -18,11 +18,11 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/souvik-ghosh-97a208227)
+&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/script.reek/) 
 &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:souvikg3225@gmail.com)
-&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/souvik-ghosh-97a208227)
 &nbsp;
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Reek003)
 
