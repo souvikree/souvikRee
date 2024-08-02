@@ -11,7 +11,7 @@
 </p>
 
 - :school: I am studying `Computer Science and Business System` at Heritage Institute of Technology Kolkata
-- 🌱 I’m currently learning **`BLOCKCHAIN`**
+- 🌱 I’m currently learning **`BLOCKCHAIN & WEB3`**
 - 📫 How to reach me: **`souvikg3225@gmail.com`**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
 - ⚡ Fun fact: **Not Have any**
