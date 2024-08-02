@@ -35,7 +35,18 @@
 </p>
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,html,css,ts,c,java,mongodb,postgresql,postman,express,tailwindcss,flutter,dart,kotlin,bootstrap,git,figma,firebase,npm,python,threejs,ubuntu&perline=12)](https://skillicons.dev)
+  ##  Programming Languages
+       
+[![My Skills](https://skillicons.dev/icons?i=java,js,c,python,go&perline=12)](https://skillicons.dev)
+  ##  Frontend
+       
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,ts,tailwindcss,flutter,dart,bootstrap,next,threejs&perline=12)](https://skillicons.dev)
+  ##  Backend
+       
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,express,firebase,npm&perline=12)](https://skillicons.dev)
+  ##  Other tools
+       
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,figma,firebase,vscode,replit&perline=12)](https://skillicons.dev)
 
 ## 🔥 Streak Stats
 <p>
