@@ -60,10 +60,14 @@
 </p>
   <p >
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&count_private=true" height="192px"/></a>
-
-
+ </p>
+ <p >
+<a href="https://github.com/souvikree">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvikree&theme=buefy" alt="GitHub Profile Summary" />
+    </a>
+</p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  
 
 ----
 
