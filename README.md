@@ -55,12 +55,12 @@
 
 ## 📊 Github Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="192px" class="rounded-lg"/>
-</p>
   <p >
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&count_private=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true" height="220px" class="rounded-lg"/></a>
  </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="220px" class="rounded-lg"/>
+</p>
  <p >
 <a href="https://github.com/souvikree">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvikree&theme=buefy" alt="GitHub Profile Summary" />
@@ -77,7 +77,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikree&layout=compact&theme=algolia" alt="souvikree" /></a> </p>
 
 ______________
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=FrontRow)](https://github.com/souvikree/FrontRow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=myShare)](https://github.com/souvikree/myShare)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=EduConnect)](https://github.com/souvikree/EduConnect)
+______________
+
 
