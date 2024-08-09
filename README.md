@@ -70,10 +70,6 @@
   
 
 ----
-
-  
-
-
 <br/>
 
 ## :trophy: Git profile Trophies
@@ -81,3 +77,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikree&layout=compact&theme=algolia" alt="souvikree" /></a> </p>
 
 ______________
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=FrontRow)](https://github.com/souvikree/FrontRow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=myShare)](https://github.com/souvikree/myShare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=EduConnect)](https://github.com/souvikree/EduConnect)
