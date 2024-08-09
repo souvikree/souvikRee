@@ -4,7 +4,7 @@
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3</h3>
 
 ## :sassy_man:  About me
-<img align="right" alt="Coding" width="450" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0">  <!--style="border-radius: 15px 50px;"-->
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">  <!--style="border-radius: 15px 50px;"-->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
