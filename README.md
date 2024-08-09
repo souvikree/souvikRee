@@ -1,4 +1,4 @@
-![Profile Banner](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![Profile Banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3</h3>
