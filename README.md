@@ -4,7 +4,7 @@
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3</h3>
 
 ## :sassy_man:  About me
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" style="border-radius: 15px 50px;" >
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="border-radius: 15px 50px;" >
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
