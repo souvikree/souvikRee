@@ -4,7 +4,7 @@
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3</h3>
 
 ## :sassy_man:  About me
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="border-radius: 15px 50px;" >
+<img align="right" alt="Coding" width="550" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0">  <!--style="border-radius: 15px 50px;"-->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,6 +15,13 @@
 - 📫 How to reach me: **`souvikg3225@gmail.com`**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
 <!-- - ⚡ Fun fact: **Not Have any**-->
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
