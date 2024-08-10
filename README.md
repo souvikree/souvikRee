@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey!👋 I'm Souvik Ghosh</h1>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400"> -->
-<h3 align="center">A Developer from India with a Keen Interest in AI & ML || Web3</h3>
+<h3 align="center">A Developer from India with a Keen Interest in Web3</h3>
 
 ## :sassy_man:  About me
 <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">  <!--style="border-radius: 15px 50px;"-->
