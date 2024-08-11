@@ -57,21 +57,22 @@
 
 ## 🔥 Streak Stats
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&" alt="GitHub Streak" class="rounded-lg"/>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&" alt="GitHub Streak" class="rounded-lg"/> -->
+<img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=souvikree&theme=dark" alt="GitHub Streak" class="rounded-lg"/>
 </p>
 
 ## 📊 Github Stats
 
   <p >
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true" height="250px" class="rounded-lg"/></a>
+    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true&theme=dark" height="250px" class="rounded-lg"/>
  </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&langs_count=70&locale=en&layout=compact" alt="Top Languages" height="250px"  class="rounded-lg"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&langs_count=70&locale=en&layout=compact&theme=dark" alt="Top Languages" height="250px"  class="rounded-lg"/>
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact&langs_count=70) -->
 </p>
  <p >
 <a href="https://github.com/souvikree">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvikree&theme=buefy" alt="GitHub Profile Summary" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvikree&theme=dark" alt="GitHub Profile Summary" />
     </a>
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -86,9 +87,9 @@
 
 ______________
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=FrontRow)](https://github.com/souvikree/FrontRow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=myShare)](https://github.com/souvikree/myShare)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=EduConnect)](https://github.com/souvikree/EduConnect)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=FrontRow&theme=dark)](https://github.com/souvikree/FrontRow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=myShare&theme=dark)](https://github.com/souvikree/myShare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=EduConnect&theme=dark)](https://github.com/souvikree/EduConnect)
 ______________
 
 
