@@ -66,7 +66,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true" height="220px" class="rounded-lg"/></a>
  </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="220px" class="rounded-lg"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&langs_count=70&locale=en&layout=compact" alt="Top Languages" height="220px" class="rounded-lg"/>
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact&langs_count=70) -->
 </p>
  <p >
 <a href="https://github.com/souvikree">
