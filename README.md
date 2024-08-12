@@ -5,7 +5,7 @@
 <h3 align="center">A Developer from India with a Keen Interest in AI & ML & Web3</h3>
 
 ## :sassy_man:  About me
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">  <!--style="border-radius: 15px 50px;"-->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">  <!--style="border-radius: 15px 50px;"-->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -14,7 +14,8 @@
 - :school: I am studying `Computer Science and Business System` at <br/> `Heritage Institute of Technology Kolkata`
 - 🌱 I’m currently learning **`BLOCKCHAIN & WEB3`**
 - 📫 How to reach me: **`souvikg3225@gmail.com`**
-- 👨‍💼: I’m currently open for: `An Intern` or a new `job opportunity`
+- 👨‍💼 I’m currently open for: `An Intern` or a new `job opportunity`
+- 🚀 Interests: `Business Development` `Generating Innovative Business Ideas` `Exploring Startup Ventures`
 
 <!-- - ⚡ Fun fact: **Not Have any**-->
 
