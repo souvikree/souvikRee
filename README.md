@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **`BLOCKCHAIN & WEB3`**
 - 📫 How to reach me: **`souvikg3225@gmail.com`**
 - 👨‍💼 I’m currently open for: `An Intern` or a new `job opportunity`
-- 🚀 Interests: `Business Development` `Generating Innovative Business Ideas` `Exploring Startup Ventures`
+- 🚀 Interests: `Generating Innovative Business Ideas` <br/> `Exploring Startup Ventures` <br/> `Business Development` 
 
 <!-- - ⚡ Fun fact: **Not Have any**-->
 
