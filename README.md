@@ -52,6 +52,9 @@
   ##  Backend
        
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,express,firebase,npm&perline=12)](https://skillicons.dev)
+  ##  Operating System
+       
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux&perline=12)](https://skillicons.dev)
   ##  Other tools
        
 [![My Skills](https://skillicons.dev/icons?i=postman,git,github,figma,firebase,vscode,replit&perline=12)](https://skillicons.dev)
