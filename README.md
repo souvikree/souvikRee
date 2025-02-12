@@ -32,7 +32,7 @@
 &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:souvikg3225@gmail.com)
 &nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Reek003)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/reek_me)
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
