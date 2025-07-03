@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- :school: I am studying `Computer Science and Business System` at <br/> `Heritage Institute of Technology Kolkata`
-- 🌱 I’m currently learning **`BLOCKCHAIN & WEB3`**
+<!-- - - :school: I am studying `Computer Science and Business System` at <br/> `Heritage Institute of Technology Kolkata`
+- 🌱 I’m currently learning **`BLOCKCHAIN & WEB3`**-->
 - 📫 How to reach me: **`souvikg3225@gmail.com`**
 - 👨‍💼 I’m currently open for: `An Intern` or a new `job opportunity`
 - 🚀 Interests: `o Generating Innovative Business Ideas` <br/> `o Exploring Startup Ventures` `o Business Development` 
