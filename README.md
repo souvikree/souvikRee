@@ -1,99 +1,172 @@
-![Profile Banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
+<div align="center">
 
-<h1 align="center"> Hey!👋 I'm Souvik Ghosh</h1>
-<!-- <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400"> -->
-<h3 align="center">A Developer from India with a Keen Interest in AI & ML & Web3</h3>
+<!-- Animated banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF2D78&height=200&section=header&text=SOUVIK%20GHOSH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%2F%2F%20Builder%20of%20Systems%20That%20Scale&descSize=16&descAlignY=58&descColor=00F5FF&animation=fadeIn" />
 
-## :sassy_man:  About me
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">  <!--style="border-radius: 15px 50px;"-->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=souvikree&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<!-- - - :school: I am studying `Computer Science and Business System` at <br/> `Heritage Institute of Technology Kolkata`
-- 🌱 I’m currently learning **`BLOCKCHAIN & WEB3`**-->
-- 📫 How to reach me: **`souvikg3225@gmail.com`**
-- 👨‍💼 I’m currently open for: `An Intern` or a new `job opportunity`
-- 🚀 Interests: `o Generating Innovative Business Ideas` <br/> `o Exploring Startup Ventures` `o Business Development` 
-
-<!-- - ⚡ Fun fact: **Not Have any**-->
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/souvik-ghosh-97a208227)
-&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/script.reek/) 
-&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:souvikg3225@gmail.com)
-&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/reek_me)
-
-<h3 align="left">Portfolio:</h3>
-<p align="left">
-  <a href="https://myportfolio-two-amber.vercel.app/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Portfolio" height="30" width="40" class="rounded-lg"/>
-    Visit my Portfolio
-  </a>
-</p>
-
-## 🛠️ My Skills
-  ##  Programming Languages
-       
-[![My Skills](https://skillicons.dev/icons?i=java,js,c,python,go&perline=12)](https://skillicons.dev)
-  ##  Frontend
-       
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,ts,tailwindcss,flutter,dart,bootstrap,next,threejs&perline=12)](https://skillicons.dev)
-  ##  Backend
-       
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,express,firebase,npm&perline=12)](https://skillicons.dev)
-  ##  Operating System
-       
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux&perline=12)](https://skillicons.dev)
-  ##  Other tools
-       
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,figma,firebase,vscode,replit&perline=12)](https://skillicons.dev)
-
-## 🔥 Streak Stats
+<!-- Status badges -->
 <p>
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&" alt="GitHub Streak" class="rounded-lg"/> -->
-<img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=souvikree&theme=dark" alt="GitHub Streak" class="rounded-lg"/>
+  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Opportunities-00FF87?style=for-the-badge&logo=statuspage&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-Kolkata%2C%20India-00F5FF?style=for-the-badge&logo=googlemaps&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-Distributed%20Systems-7B2FFF?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-## 📊 Github Stats
+<!-- Visitor count -->
+<img src="https://komarev.com/ghpvc/?username=souvikree&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
 
-  <p >
-    <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=souvikree&show=prs_merged,prs_merged_percentage&show_icons=true&count_private=true&theme=dark" height="250px" class="rounded-lg"/>
- </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikree&show_icons=true&langs_count=70&locale=en&layout=compact&theme=dark" alt="Top Languages" height="250px"  class="rounded-lg"/>
-<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-Eth&layout=compact&langs_count=70) -->
-</p>
- <p >
-<a href="https://github.com/souvikree">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvikree&theme=dark" alt="GitHub Profile Summary" />
-    </a>
-</p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+</div>
 
-----
-<br/>
+---
 
-## :trophy: Git profile Trophies
+```typescript
+const souvik = {
+  name:     "Souvik Ghosh",
+  role:     "Software Engineer",
+  college:  "Heritage Institute of Technology, Kolkata",
+  degree:   "B.Tech — Computer Science & Business Systems (2021–2025)",
+  focus:    ["Distributed Systems", "Real-time Communication", "Clean Architecture"],
+  stack:    ["Java", "Spring Boot", "Next.js", "Node.js", "React", "WebRTC", "WebSockets"],
+  building: "Software that solves real problems and actually lasts.",
+  contact:  "souvikg3225@gmail.com",
+};
+```
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikree&layout=compact&theme=algolia" alt="souvikree" /></a> </p>
+---
 
-______________
+## `// WHAT I BUILD`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=FrontRow&theme=dark)](https://github.com/souvikree/FrontRow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=myShare&theme=dark)](https://github.com/souvikree/myShare)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=souvikree&show_owner=true&repo=EduConnect&theme=dark)](https://github.com/souvikree/EduConnect)
-______________
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/⚡-Real--time%20Systems-00F5FF?style=flat-square&labelColor=050508" /><br/>
+      <sub>WebRTC · WebSockets · Live platforms</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🔧-Distributed%20Architecture-7B2FFF?style=flat-square&labelColor=050508" /><br/>
+      <sub>Microservices · Service Discovery · APIs</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🌐-Full%20Stack%20Products-FF2D78?style=flat-square&labelColor=050508" /><br/>
+      <sub>Spring Boot · Next.js · MongoDB · MySQL</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
+---
 
+## `// TECH STACK`
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-4285F4?style=for-the-badge&logo=webrtc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-00F5FF?style=for-the-badge&logo=socket.io&logoColor=black)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## `// GITHUB STATS`
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&theme=radical&hide_border=true&bg_color=050508&title_color=00F5FF&icon_color=7B2FFF&text_color=ffffff&ring_color=FF2D78" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikree&layout=compact&theme=radical&hide_border=true&bg_color=050508&title_color=00F5FF&text_color=ffffff&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&theme=radical&hide_border=true&background=050508&stroke=00F5FF&ring=7B2FFF&fire=FF2D78&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=souvikree&theme=react-dark&bg_color=050508&color=00F5FF&line=7B2FFF&point=FF2D78&area=true&hide_border=true" />
+</div>
+
+---
+
+## `// ACHIEVEMENTS`
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Netflix%20Eureka-OSS%20Contributor-00F5FF?style=for-the-badge&logo=netflix&logoColor=white" />
+      <br/><sub>PR #1602 — Enhanced service discovery & fault tolerance</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/J.P.%20Morgan%20Chase-Engineering%20Sim-FFD166?style=for-the-badge&logo=jpmorgan&logoColor=black" />
+      <br/><sub>Spring Boot microservices · JPA · REST APIs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2023%20Participant-FF6B35?style=for-the-badge&logo=governmentofIndia&logoColor=white" />
+      <br/><sub>Digital workflow solution for government processes</sub>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Solved-00FF87?style=for-the-badge&logo=leetcode&logoColor=black" />
+      <br/><sub>Arrays · DP · Graphs · Trees</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## `// CONNECT`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-souviksportfolio.vercel.app-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://souviksportfolio.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkwithsouvik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkwithsouvik)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-souRee-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/souRee)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-souvikg3225@gmail.com-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikg3225@gmail.com)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/X-@reek__me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reek_me)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Bottom wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,50:7B2FFF,100:00F5FF&height=100&section=footer" />
+
+<sub>
+  <code>// built with focus · shipping what matters</code>
+</sub>
+
+</div>
