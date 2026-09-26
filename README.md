@@ -1,172 +1,104 @@
 <div align="center">
 
-<!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FFF,100:FF2D78&height=200&section=header&text=SOUVIK%20GHOSH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%2F%2F%20Builder%20of%20Systems%20That%20Scale&descSize=16&descAlignY=58&descColor=00F5FF&animation=fadeIn" />
-
-<!-- Status badges -->
-<p>
-  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Opportunities-00FF87?style=for-the-badge&logo=statuspage&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-Kolkata%2C%20India-00F5FF?style=for-the-badge&logo=googlemaps&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-Distributed%20Systems-7B2FFF?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
-
-<!-- Visitor count -->
-<img src="https://komarev.com/ghpvc/?username=souvikree&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Souvik Ghosh — Software Engineer, distributed systems and real-time communication, Kolkata, India">
+</picture>
 
 </div>
 
----
+<br/>
 
-```typescript
-const souvik = {
-  name:     "Souvik Ghosh",
-  role:     "Software Engineer",
-  college:  "Heritage Institute of Technology, Kolkata",
-  degree:   "B.Tech — Computer Science & Business Systems (2021–2025)",
-  focus:    ["Distributed Systems", "Real-time Communication", "Clean Architecture"],
-  stack:    ["Java", "Spring Boot", "Next.js", "Node.js", "React", "WebRTC", "WebSockets"],
-  building: "Software that solves real problems and actually lasts.",
-  contact:  "souvikg3225@gmail.com",
-};
-```
+## About
 
----
+Software Engineer focused on distributed systems and real-time communication — the kind of infrastructure that has to stay correct under load, not just work in a demo. Currently completing a B.Tech in Computer Science & Business Systems at Heritage Institute of Technology, Kolkata.
 
-## `// WHAT I BUILD`
+**Working areas**
+- Distributed architecture — microservices, service discovery, API design
+- Real-time systems — WebRTC, WebSockets, low-latency communication
+- Full-stack delivery — Spring Boot on the backend, Next.js/React on the front
+
+<br/>
+
+## Education
+
+| | |
+|---|---|
+| **Degree** | B.Tech, Computer Science & Business Systems |
+| **Institution** | Heritage Institute of Technology, Kolkata |
+| **Duration** | 2021 – 2025 |
+
+<br/>
+
+## Engineering Stack
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/⚡-Real--time%20Systems-00F5FF?style=flat-square&labelColor=050508" /><br/>
-      <sub>WebRTC · WebSockets · Live platforms</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🔧-Distributed%20Architecture-7B2FFF?style=flat-square&labelColor=050508" /><br/>
-      <sub>Microservices · Service Discovery · APIs</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🌐-Full%20Stack%20Products-FF2D78?style=flat-square&labelColor=050508" /><br/>
-      <sub>Spring Boot · Next.js · MongoDB · MySQL</sub>
-    </td>
-  </tr>
+
+**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=java,js,ts,mysql&theme=dark" />
+
+**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+
+**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
+
+**Infra & Tools** &nbsp; <img src="https://skillicons.dev/icons?i=mongodb,docker,aws,git,linux&theme=dark" />
+
+**Real-time** &nbsp; `WebRTC` · `WebSockets`
+
+</div>
+
+<br/>
+
+## Featured Achievements
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>Netflix Eureka — Open Source Contributor</h4>
+PR #1602 — enhanced service discovery & fault tolerance.
+</td>
+<td width="50%" valign="top">
+<h4>J.P. Morgan Chase — Software Engineering Simulation</h4>
+Spring Boot microservices · JPA · REST APIs.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>Smart India Hackathon 2023 — Participant</h4>
+Digital workflow solution for government processes.
+</td>
+<td width="50%" valign="top">
+<h4>LeetCode — 250+ Problems Solved</h4>
+Arrays · DP · Graphs · Trees.
+</td>
+</tr>
 </table>
-</div>
 
----
+<br/>
 
-## `// TECH STACK`
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-4285F4?style=for-the-badge&logo=webrtc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-00F5FF?style=for-the-badge&logo=socket.io&logoColor=black)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## `// GITHUB STATS`
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&theme=radical&hide_border=true&bg_color=050508&title_color=00F5FF&icon_color=7B2FFF&text_color=ffffff&ring_color=FF2D78" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikree&layout=compact&theme=radical&hide_border=true&bg_color=050508&title_color=00F5FF&text_color=ffffff&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&theme=radical&hide_border=true&background=050508&stroke=00F5FF&ring=7B2FFF&fire=FF2D78&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888" />
-</div>
-
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=souvikree&theme=react-dark&bg_color=050508&color=00F5FF&line=7B2FFF&point=FF2D78&area=true&hide_border=true" />
-</div>
-
----
-
-## `// ACHIEVEMENTS`
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Netflix%20Eureka-OSS%20Contributor-00F5FF?style=for-the-badge&logo=netflix&logoColor=white" />
-      <br/><sub>PR #1602 — Enhanced service discovery & fault tolerance</sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/J.P.%20Morgan%20Chase-Engineering%20Sim-FFD166?style=for-the-badge&logo=jpmorgan&logoColor=black" />
-      <br/><sub>Spring Boot microservices · JPA · REST APIs</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2023%20Participant-FF6B35?style=for-the-badge&logo=governmentofIndia&logoColor=white" />
-      <br/><sub>Digital workflow solution for government processes</sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Solved-00FF87?style=for-the-badge&logo=leetcode&logoColor=black" />
-      <br/><sub>Arrays · DP · Graphs · Trees</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## `// CONNECT`
+## GitHub Activity
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-souviksportfolio.vercel.app-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://souviksportfolio.vercel.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkwithsouvik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkwithsouvik)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-souRee-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/souRee)
-&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-souvikg3225@gmail.com-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvikg3225@gmail.com)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/X-@reek__me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reek_me)
+<img src="https://github-readme-stats.vercel.app/api?username=souvikree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=7C3AED&text_color=c9d1d9&ring_color=10B981" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikree&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&langs_count=8" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souvikree&theme=tokyonight&hide_border=true&background=0d1117&stroke=22D3EE&ring=7C3AED&fire=10B981&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=888888" width="65%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=souvikree&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
 
 </div>
 
----
+<br/>
+
+## Connect
 
 <div align="center">
 
-<!-- Bottom wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,50:7B2FFF,100:00F5FF&height=100&section=footer" />
-
-<sub>
-  <code>// built with focus · shipping what matters</code>
-</sub>
+<a href="https://souviksportfolio.vercel.app">Portfolio</a> ·
+<a href="https://linkedin.com/in/linkwithsouvik">LinkedIn</a> ·
+<a href="https://leetcode.com/souRee">LeetCode</a> ·
+<a href="https://x.com/reek_me">X</a> ·
+<a href="mailto:souvikg3225@gmail.com">Email</a>
 
 </div>
