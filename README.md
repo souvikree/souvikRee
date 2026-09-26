@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./souvikdark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./souviklight.svg">
   <img src="./souvikdark.svg" alt="Souvik Ghosh — Software Engineer, distributed systems and real-time communication, Kolkata, India">
 </picture>
 
